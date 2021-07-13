@@ -1,0 +1,12 @@
+this Program is made to serve Passengers, Drivers and the Manager to control and view trips
+
+Passengers:
+	Passengers can view the available trips,Also they can book a trip and
+cancel it any time. But, each passenger can only book one ticket.
+
+Driver:
+	Drivers can only see the Trips which is assigned to them by the manager. In addition, some information
+about him is displayed as : the username and the vehicle.
+
+Manager:
+	The manager can add trip, cancel trip, add driver and assign a trip to an available driver.
